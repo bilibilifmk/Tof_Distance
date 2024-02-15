@@ -3,7 +3,7 @@ Air001 mcu的tof测距
 ## 硬件工程
 https://oshwhub.com/hbk444/tofdistance
 ## 外壳模型工程
-
+https://makerworld.com/zh/models/187504#profileId-206552
 ## 主要硬件ic 评估你是否愿意复刻 总成本大致在30-40元
 * AIR001
 * SSD1306
