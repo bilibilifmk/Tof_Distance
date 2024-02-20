@@ -11,6 +11,8 @@ https://makerworld.com/zh/models/187504#profileId-206552
 * 3.焊接屏幕
 * 4.焊接电池
 * 5.摆放方式 屏幕 电池 pcb （电池在屏幕和pcb中间夹着）
+* ![Image](./p1.jpg)
+* ![Image](./p2.gif)
 ## 主要硬件ic 评估你是否愿意复刻 总成本大致在30-40元
 * AIR001
 * SSD1306
